@@ -1,4 +1,5 @@
 import { setGlobalState, useGlobalState } from '../store'
+import { Link } from 'react-router-dom'
 const Hero = () => {
   const [stats] = useGlobalState('stats')
 
@@ -8,9 +9,9 @@ const Hero = () => {
         className="text-5xl md:text-6xl xl:text-7xl font-bold
       tracking-tight mb-12"
       >
-        <span className="capitalize">Bring creative projects to life on</span>
+        <span className="capitalize text-4xl">Revolutionizing crowdfunding with secure, transparent blockchain on</span>
         <br />
-        <span className="uppercase text-green-600">genesis.</span>
+        <span className=" text-green-600 text-6xl">TrustRaise.</span>
       </h1>
       <div className="flex justify-center items-center space-x-2">
         <button

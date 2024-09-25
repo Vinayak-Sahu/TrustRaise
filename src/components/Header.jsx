@@ -16,9 +16,9 @@ const Header = () => {
         className="flex justify-start items-center
       text-xl text-black space-x-1"
       >
-        <span>Genesis</span>
-        <TbBusinessplan />
+       <Link to="/about"> <span className='font-bold'>TrustRaise</span></Link>
       </Link>
+      <img style={{height:20}} src="https://cdn.imgbin.com/18/3/10/bitcoin-icon-blockchain-icon-xHRdRuEk.jpg"  alt="" />
 
       <div className="flex space-x-2 justify-center">
         {connectedAccount ? (
