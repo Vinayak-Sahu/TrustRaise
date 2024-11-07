@@ -63,4 +63,4 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/ge
 - 👀 [EthersJs](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
 - 🤖 [CometChat](https://cometchat.com/)
-- ✨ [Live Demo](https://genesis-45443.web.app/)
+- ✨ [Live Demo](https://genesis-45443.web.app/)# TrustRaise
